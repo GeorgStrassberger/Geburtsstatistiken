@@ -1,0 +1,12 @@
+.nav {
+    text-align: center;
+}
+
+nav a.selected {
+    border: 1px solid var(--preformatted);
+    background-color: var(--accent-bg);
+}
+
+hr {
+    width: 100%;
+}
