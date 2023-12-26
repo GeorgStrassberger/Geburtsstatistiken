@@ -6,6 +6,7 @@
     <title>Geburtsstatistiken</title>
     <link rel="stylesheet" type="text/css" href="./styles/simple.css">
     <link rel="stylesheet" type="text/css" href="./styles/custom.css">
+    <script type="text/javascript" src="scripts/chart.min.js"></script>
 </head>
 <body>
     <header>
