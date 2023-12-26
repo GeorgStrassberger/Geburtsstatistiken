@@ -15,3 +15,5 @@ while (($line = fgetcsv($file))) {
         'count' => intval($line[2], 10)
     ];
 }
+
+?>
